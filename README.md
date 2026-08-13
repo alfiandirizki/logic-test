@@ -17,7 +17,7 @@ Buatlah sebuah fungsi atau program yang menerima sebuah angka bulat `n`. Cetak (
   Buzz
 ---
 ### **Deskripsi Soal**
-2.Buatlah sebuah fungsi atau program yang menerima masukan berupa sebuah string `s`, lalu mengembalikan string tersebut dalam urutan yang terbalik.
+Buatlah sebuah fungsi atau program yang menerima masukan berupa sebuah string `s`, lalu mengembalikan string tersebut dalam urutan yang terbalik.
 
 ### **Contoh**
 
