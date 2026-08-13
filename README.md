@@ -1,5 +1,3 @@
-# Problem Set: FizzBuzz & Reverse String
-
 ### **Deskripsi Soal**
 1.Buatlah sebuah fungsi atau program yang menerima sebuah integer `n`. Kembalikan sebuah array/list string dari angka `1` sampai `n` dengan aturan sebagai berikut:
 - Jika angka habis dibagi **3**, ganti angka tersebut dengan string `"Fizz"`.
